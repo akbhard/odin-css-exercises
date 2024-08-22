@@ -2,6 +2,6 @@ div {
     background-color: red;
     font-weight: bold;
     color: white;
-    padding-left: 650px;
-    font-size:30px;
+    text-align: center;
+    font-size:32px;
 }
